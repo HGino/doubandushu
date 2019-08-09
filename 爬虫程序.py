@@ -25,7 +25,6 @@ def parse_one(html):
             'i2' : item[1],
             'i3' : item[2],
             'i4' : item[3],
-            'i5' : '\n'
         }
 
 
